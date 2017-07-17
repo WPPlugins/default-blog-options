@@ -1,0 +1,234 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: default-blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-28 17:59+0100\n"
+"PO-Revision-Date: 2010-04-28 18:01+0100\n"
+"Last-Translator: Sven Wagener <sven.wagener@rheinschmiede.de>\n"
+"Language-Team: Sven Wagener <sven.wagener@rheinschmiede.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: P:\\_Wordpress-Plugins\\Default Blog\\trunk\n"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-options.inc.php:4
+msgid "Blog options"
+msgstr "Blog Optionen"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-options.inc.php:5
+msgid "Select the options, you like to be copied from this blog options table into a create blog option table. The options will be updated the first time the user visit the Dashboard."
+msgstr "Wählen Sie die Optionen aus, welche vom default blog in die neuen Blogs übernommen werden sollen. Die Optionen werden aktiviert, sobald der Benutzer das erste Mal das Dashboard besucht hat."
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-options.inc.php:54
+#: Blog\trunk/admin-default-blog-links.inc.php:52
+#: Blog\trunk/admin-default-blog-pages.inc.php:54
+#: Blog\trunk/admin-default-blog-posts.inc.php:53
+#: Blog\trunk/admin-default-blog-cats.inc.php:66
+#: Blog\trunk/admin-default-blog-tags.inc.php:61
+#: Blog\trunk/admin-default-blog-settings.inc.php:33
+#: Blog\trunk/admin-default-blog-design.inc.php:28
+#: Blog\trunk/admin-default-blog-plugins.inc.php:28
+msgid "Update"
+msgstr "Speichern"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-links.inc.php:4
+msgid "Blog links"
+msgstr "Blog Links"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-links.inc.php:5
+msgid "Select the links, you like to be copied from this blog into a new blog. The links will be updated the first time the user visit the Dashboard."
+msgstr "Wählen Sie die Links aus, welche vom default blog in die neuen Blogs übernommen werden sollen. Die Optionen werden aktiviert, sobald der Benutzer das erste Mal das Dashboard besucht hat."
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-links.inc.php:23
+msgid "Delete existing links"
+msgstr "Lösche bereits existierende Links"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-pages.inc.php:4
+msgid "Blog pages"
+msgstr "Blog Seiten"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-pages.inc.php:5
+msgid "Select the pages, you like to be copied from this blog into a new blog. The links will be updated the first time the user visit the Dashboard."
+msgstr "Wählen Sie die Seiten aus, welche vom default blog in die neuen Blogs übernommen werden sollen. Die Optionen werden aktiviert, sobald der Benutzer das erste Mal das Dashboard besucht hat."
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-pages.inc.php:25
+msgid "Delete existing pages"
+msgstr "Lösche bereits existierende Seiten"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-posts.inc.php:4
+msgid "Blog posts"
+msgstr "Blog Artikel"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-posts.inc.php:5
+msgid "Select the posts, you like to be copied from this blog into a new blog. The links will be updated the first time the user visit the Dashboard."
+msgstr "Wählen Sie die Artikel aus, welche vom default blog in die neuen Blogs übernommen werden sollen. Die Optionen werden aktiviert, sobald der Benutzer das erste Mal das Dashboard besucht hat."
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-posts.inc.php:24
+msgid "Delete existing posts"
+msgstr "Lösche bereits existierende Artikel"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/default-blog.php:40
+msgid "Default Blog ID Saved!"
+msgstr "Default Blog ID wurde gespeichert!"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/default-blog.php:53
+msgid "Settings updatet!"
+msgstr "Einstellungen gespeichert!"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-cats.inc.php:4
+msgid "Blog categories"
+msgstr "Blog Kategorien"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-cats.inc.php:5
+msgid "Select the categories, you like to be copied from this blog into a new blog. The categories will be updated the first time the user visit the Dashboard."
+msgstr "Wählen Sie die Kategorien aus, welche vom default blog in die neuen Blogs übernommen werden sollen. Die Kategorien werden aktiviert, sobald der Benutzer das erste Mal das Dashboard besucht hat."
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-cats.inc.php:37
+msgid "Delete existing categories"
+msgstr "Lösche bereits existierende Kategorien"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-defblog.php:2
+msgid "Default Blog"
+msgstr "Blogvorlage"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-defblog.php:3
+msgid "Select a default blog"
+msgstr "Wählen Sie einen Blog als Vorlage für neu anzulegende Blogs"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-defblog.php:26
+msgid "Save default blog ID"
+msgstr "Blogvorlage speichern"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-tags.inc.php:4
+msgid "Blog tags"
+msgstr "Blog Schlagwörter"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-tags.inc.php:5
+msgid "Select the tags, you like to be copied from this blog into a new blog. The categories will be updated the first time the user visit the Dashboard."
+msgstr "Wählen Sie die Schlagwärter aus, welche vom default blog in die neuen Blogs übernommen werden sollen. Die Kategorien werden aktiviert, sobald der Benutzer das erste Mal das Dashboard besucht hat."
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-tags.inc.php:32
+msgid "Delete existing tags"
+msgstr "Lösche bereits existierende Schlagwörter"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-settings.inc.php:4
+msgid "Blog settings"
+msgstr "Blog Einstellungen"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-settings.inc.php:5
+#: Blog\trunk/admin-default-blog-design.inc.php:5
+#: Blog\trunk/admin-default-blog-plugins.inc.php:5
+msgid "Select the settings, you like to be copied from this blog to a new blog. The settings will be updated the first time the user visit the Dashboard."
+msgstr "Wählen Sie die Einstellungen aus, welche vom default blog in die neuen Blogs übernommen werden sollen. Die Optionen werden aktiviert, sobald der Benutzer das erste Mal das Dashboard besucht hat."
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-settings.inc.php:21
+msgid "Welcome page"
+msgstr "Startseite"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-design.inc.php:4
+msgid "Blog design"
+msgstr "Blog Design"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-design.inc.php:17
+msgid "Theme"
+msgstr "Theme"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-plugins.inc.php:4
+msgid "Blog plugins"
+msgstr "Blog Plugins"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/admin-default-blog-plugins.inc.php:17
+msgid "Activate Plugins"
+msgstr "Aktiviere Plugins"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:2
+msgid "Default Blog settings"
+msgstr "Default Blog Einstellungen"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:6
+msgid "Posts"
+msgstr "Artikel"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:7
+msgid "Categories"
+msgstr "Kategorien"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:8
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:9
+msgid "Links"
+msgstr "Links"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:10
+msgid "Pages"
+msgstr "Seiten"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:11
+msgid "Design"
+msgstr "Design"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:12
+msgid "Plugins"
+msgstr "Plugins"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:13
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: P:\_Wordpress-Plugins\Default
+#: Blog\trunk/template/header.php:14
+msgid "Options table (Expert modus)"
+msgstr "Options Tabelle (Expertenmodus)"
+
+#~ msgid "Options"
+#~ msgstr "Optionen"
